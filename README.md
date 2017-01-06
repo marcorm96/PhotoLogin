@@ -1,8 +1,11 @@
 # PhotoLogin
 
 For Ubuntu (and derivates) users:
+
 	1) Open a terminal in the folder;
+	
 	2) Run: sudo chmod +x installPL.sh
+	
 	3) Run: java -jar PhotoLogin.jar
 
 
